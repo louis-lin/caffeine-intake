@@ -7,7 +7,7 @@ This is a simple React counter component.
 ## Live Demo
 
 <iframe
-  src="https://codesandbox.io/embed/github/YOUR_GITHUB_USERNAME/YOUR_REPO_NAME/tree/main/?fontsize=14&hidenavigation=1&theme=dark"
+  src="https://codesandbox.io/embed/github/louis-lin/caffeine-intake/tree/main/?fontsize=14&hidenavigation=1&theme=dark"
   style="width:100%; height:500px; border:0; border-radius: 4px; overflow:hidden;"
   title="react-counter"
   allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
